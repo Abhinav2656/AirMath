@@ -22,8 +22,8 @@ AirMath is a computer vision-based calculator that lets you draw digits in the a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ayush-that/Apple-Calculator-Using-Computer-Vision.git
-cd Apple-Calculator-Using-Computer-Vision
+git clone https://github.com/Abhinav2656/Airmath.git
+cd Airmath
 ```
 
 ### 2. Create a Virtual Environment (Optional)
